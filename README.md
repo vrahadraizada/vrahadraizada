@@ -55,7 +55,7 @@
 <br />
 <!-- --------------------------------------------------------------------- -->
 
-                                                      ### Show ❤️ by starring repositories you find good!
+ ### Show ❤️ by starring repositories you find good! Also, star and fork this repository if you wish to give this new feature a try!
 
 </div>
 
