@@ -10,9 +10,9 @@
 <br>
 <!-- --------------------------------------------------------------------- -->
 
-[![Linkedin: imthepk](https://img.shields.io/badge/Linked-IN-blue)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: vrahad](https://img.shields.io/badge/Linked-IN-blue)](https://www.linkedin.com/in/vrahad/)
 [![website](https://img.shields.io/badge/Portfolio-Website-yellow)](https://vrahadraizada.com/)
-[![GitHub iampawan](https://img.shields.io/badge/Git-hub-red)](https://github.com/vrahadraizada)
+[![GitHub vrahadraizada](https://img.shields.io/badge/Git-hub-red)](https://github.com/vrahadraizada)
 
 <br>
 <!-- --------------------------------------------------------------------- -->
@@ -55,7 +55,14 @@
 <br />
 <!-- --------------------------------------------------------------------- -->
 
- ### Show ❤️ by starring repositories you find good! Also, star and fork this repository if you wish to give this new feature a try!
+### Show ❤️ by starring repositories you find good!!
+
+<p align="right">
+  
+  ![ViewCount](https://views.whatilearened.today/views/github/vrahadraizada/vrahadraizada.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20or%20visiting-!-red)](https://vrahadraizada.com/)
+  
+</p>
 
 </div>
 
+<!-- [![HitCount](http://hits.dwyl.com/vrahadraizada/vrahadraizada.svg)](http://hits.dwyl.com/vrahadraizada/vrahadraizada) -->
