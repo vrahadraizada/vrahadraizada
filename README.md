@@ -7,14 +7,14 @@
   
   <h1 align="center">Hello, world! 👋</h1>
   
-  <br>
+<br>
 <!-- --------------------------------------------------------------------- -->
 
 [![Linkedin: imthepk](https://img.shields.io/badge/Linked-IN-blue)](https://www.linkedin.com/in/imthepk/)
 [![website](https://img.shields.io/badge/Portfolio-Website-yellow)](https://vrahadraizada.com/)
 [![GitHub iampawan](https://img.shields.io/badge/Git-hub-red)](https://github.com/vrahadraizada)
 
-  <br>
+<br>
 <!-- --------------------------------------------------------------------- -->
 
 **About Me:**
@@ -29,7 +29,7 @@
 - 💻 Passionate about technologies and it's market and business impacts.
 - 📫 You can shoot me an email at vrahadraizada22@gmail.com I'll try to respond as soon as I can.
 
-  <br>
+<br />
 <!-- --------------------------------------------------------------------- -->
 
 **Languages and Tools:**
@@ -40,7 +40,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-  <br>
+<br /> <br />
 <!-- --------------------------------------------------------------------- -->
 
 **Github Stats:**
@@ -52,6 +52,7 @@
 
 </p>
 
+<br />
 <!-- --------------------------------------------------------------------- -->
 
 ### Show ❤️ by starring repositories you find good!
