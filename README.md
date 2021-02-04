@@ -21,7 +21,7 @@
 
 - 🎓 I have completed BCA in 2017.
 - 🌱 I’m currently learning Firebase.
-- 😄 2021 Goal: To be better Flutter Developer
+- 😄 2021 Goal: To be best Flutter Developer
 - 🤔 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me anything about Flutter | Javascript or any tech stuff.
 - 😄 Pronouns: He/His
