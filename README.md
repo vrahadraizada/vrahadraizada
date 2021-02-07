@@ -20,7 +20,7 @@
 **About Me:**
 
 - 🎓 I have completed BCA in 2017.
-- 🌱 I’m currently learning Firebase.
+- 🌱 I’m currently learning Firebase and Git.
 - 😄 2021 Goal: To be best Flutter Developer
 - 🤔 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me anything about Flutter | Javascript or any tech stuff.
