@@ -20,10 +20,10 @@
 **About Me:**
 
 - 🎓 I have completed BCA in 2017.
-- 🌱 I’m currently learning Firebase and Git.
-- 😄 2021 Goal: To be best Flutter Developer
+- 🌱 I’m currently learning React js and Node js.
+- 😄 2023 Goal: To be best Fullstack Developer
 - 🤔 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me anything about Flutter | Javascript or any tech stuff.
+- 💬 Ask me anything about Javascript | React or any tech stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am not funny, but I want to be.
 - 💻 Passionate about technologies and it's market and business impacts.
@@ -33,15 +33,10 @@
 <!-- --------------------------------------------------------------------- -->
 
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 <br /> 
 <!-- --------------------------------------------------------------------- -->
