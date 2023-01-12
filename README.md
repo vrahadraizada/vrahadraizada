@@ -38,18 +38,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br /> 
-<!-- --------------------------------------------------------------------- -->
-
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vrahadraizada&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrahadraizada&count_private=false&theme=dracula">
-            
-</p>
-
 <br />
 <!-- --------------------------------------------------------------------- -->
 
