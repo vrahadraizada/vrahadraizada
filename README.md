@@ -25,7 +25,7 @@
 
 <!-- No Need to make Changes here in bottom-->
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrahadraizada&layout=compact" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrahadraizada&layout=compact" /> -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vrahadraizada&show_icons=true&theme=radical" />
 </p>
 
