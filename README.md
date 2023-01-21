@@ -1,6 +1,6 @@
 ![Banner](https://github.com/vrahadraizada/vrahadraizada/blob/main/vr.gif)
 <h1 align="center">Hello World👋, I'm Vrahad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://pricode.io/wp-content/uploads/2019/04/gif-coder.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrahadraizada&label=Profile%20views&color=0e75b6&style=flat" alt="vrahadraizada" /> </p>
@@ -23,14 +23,7 @@
 
 <br>
 
-<!-- No Need to make Changes here in bottom-->
-<p>
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrahadraizada&layout=compact" /> -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vrahadraizada&show_icons=true&theme=radical" />
-</p>
-
-<br> 
-
+<h3 align="left">Top Technologies:</h3>
 <p>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -39,3 +32,9 @@
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
  
+<br> <hr>
+
+<p>
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrahadraizada&layout=compact" /> -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vrahadraizada&show_icons=true&theme=radical" />
+</p>
