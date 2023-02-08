@@ -15,14 +15,6 @@
 
 <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vrahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrahad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vrahadraizada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vrahadraizada" height="30" width="40" /></a>
-</p>
-
-<br />
-
 <h3 align="left">Top Technologies:</h3>
 <p>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
