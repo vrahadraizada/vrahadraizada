@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am not funny**
 
-<br>
+<br />
 
 <h3 align="left">Top Technologies:</h3>
 <p>
